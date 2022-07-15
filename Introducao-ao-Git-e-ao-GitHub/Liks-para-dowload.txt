@@ -1,0 +1,2 @@
+Link para dowload do Git: https://git-scm.com/download/win
+Link para dowload do GitHub: https://desktop.github.com/
